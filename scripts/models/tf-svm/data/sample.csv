@@ -1,0 +1,6 @@
+class,intent,text
+class_id_1,BLOCKED,kg.MutualFund 基金@初始规模 是怎样
+class_id_2,BLOCKED,@kg.MutualFundManager 人@代理的基金 有哪些
+class_id_3,BLOCKED,@基金经理 @kg.MutualFundManager 最近@过往几年业绩 咋样啊
+class_id_4,BLOCKED,@kg.MutualFund 基金现在@赎回费 大概要多少钱
+class_id_5,BLOCKED,@kg.MutualFund 这个产品的@基金经理 过去几年有历史业绩可以参考么
